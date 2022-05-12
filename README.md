@@ -1,16 +1,19 @@
 # e_commerce_done
 
-A new Flutter project.
+This app is helps people to order anything about clothes and more .
 
-## Getting Started
+## About App
+* I made this app using:
+* Firebase (Authentication, Firebase Cloud 'DB').
+* Getx as State Management.
 
-This project is a starting point for a Flutter application.
+--
 
-A few resources to get you started if this is your first Flutter project:
+![2022-05-12 (14)](https://user-images.githubusercontent.com/67846468/168126422-da54457b-23a8-477e-9562-1fc223bd6a8e.png)
+--
+![2022-05-12 (16)](https://user-images.githubusercontent.com/67846468/168126805-13eb6ed1-7635-47cb-866c-a14ab201e9a2.png)
+--
+![2022-05-12 (17)](https://user-images.githubusercontent.com/67846468/168127053-0b32eff0-e2cb-47eb-9bf3-d4ee27644095.png)
+--
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![2022-05-12 (18)](https://user-images.githubusercontent.com/67846468/168127327-cb3db8ca-4ee7-49b6-8cc2-fcf1ff1770bb.png)
